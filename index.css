@@ -1,0 +1,66 @@
+#item-input{
+    position: relative;
+    text-align: center;
+    padding-top: 5%;
+
+}
+
+#input{
+    padding: 12px;
+    border-radius: 20px;
+    width: 250px;
+    font-size: large;
+    color: #be30d0;
+    border: solid white;
+}
+
+body{
+    background: #242132;
+
+}
+
+#item{
+    padding: 5%;
+    text-align: center;
+      
+}
+
+.list-item{
+    padding: 20px;
+    border: solid #fefcff;
+    margin-bottom: 20px;
+    margin-left: 450px;
+    margin-right: 450px;
+    color: #fefcff;
+    box-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 10px #be30d0, 0 0 20px #be30d0,
+		0 0 30px #be30d0, 0 0 10px #be30d0, 0 0 40px #be30d0;
+}
+
+#add-btn{
+    padding: 8px;
+    border-radius: 45%;
+    width: 40px;
+    font-size: large;
+    color: #fefcff;
+    border: solid #fefcff;
+    background-color: #be30d0;
+}
+
+#add-btn:hover{
+    color: #fefcff;
+    border: solid #fefcff;
+    background-color: #746cfe;
+    
+}
+
+#del-btn{
+    float: right;
+    font-size: large;
+    border: none;
+    background: none;
+    color: white;
+}
+
+#del-btn:hover{
+    color: #746cfe;
+}
